@@ -1,12 +1,12 @@
 ---
-title: "My Journey in Deep Learning"
+title: "Sergey Miroshnichenko"
 listing:
   contents: posts
   sort: "date desc"
-  type: default
-  categories: true
+  type: table
   sort-ui: false
   filter-ui: false
+  fields: [image, date, title, reading-time]
 page-layout: full
 title-block-banner: true
 ---

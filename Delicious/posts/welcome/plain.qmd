@@ -1,0 +1,21 @@
+---
+title: "Welcome To My Blog"
+date: June 10 2024
+---
+
+Hello, everyone!
+
+My name is Sergey, I'm from Astrakhan, Russia.
+
+Last week, I started my journey into Deep Learning with the amazing teacher Jeremy Howard. His method fits me perfectly!
+
+* He is one of the best experts in the field
+* His course is modern
+* He teaches through practice
+* He simplifies as much as possible
+* I'm supposed to create a model and improve it during the course
+* We should dig deeper and deeper
+
+To succeed in DL (Deep Learning) you don't need academic background, but you need to apply what you learn from the course to your personal project and you should always be persistent.
+
+By the end of the course you'll understand all the code that's inside fast.ai, which means you've learnt the most important best practicies used in modern DL.
