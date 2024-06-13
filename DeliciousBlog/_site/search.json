@@ -9,16 +9,16 @@
   {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
-    "title": "My Journey in Deep Learning",
+    "title": "Welcome to my blog!",
     "section": "",
-    "text": "Hello, everyone!\nMy name is Sergey, I’m from Astrakhan, Russia.\nLast week, I started my journey into Deep Learning with the amazing teacher Jeremy Howard. His method fits me perfectly!\n\nHe is one of the best experts in the field\nHis course is modern\nHe teaches through practice\nHe simplifies as much as possible\nI’m supposed to create a model and improve it during the course\nWe should dig deeper and deeper\n\nTo succeed in DL (Deep Learning) you don’t need academic background, but you need to apply what you learn from the course to your personal project and you should always be persistent.\nBy the end of the course you’ll understand all the code that’s inside fast.ai, which means you’ve learnt the most important best practicies used in modern DL.\nThis is my motivation, which I wrote down on my flipchart. Btw, try to write your ideas on the flipchart, maybe you’ll like it as much as I do)\nAlthough Jeremy says that I should create my project right now, I’m not really interested in computer vision, which we’ve learned about during the first two lessons. I’m more interested in natural language processing, which we’ll learn in lesson 3, and video processing.\nHere is the link to his course.\nI also have a telegram chanel on russian.\n\n2+2\n\n4"
+    "text": "Hello, everyone!\nMy name is Sergey, I’m from Astrakhan, Russia.\nLast week, I started my journey into Deep Learning with the amazing teacher Jeremy Howard. His method fits me perfectly!\n\nHe is one of the best experts in the field\nHis course is modern\nHe teaches through practice\nHe simplifies as much as possible\nI’m supposed to create a model and improve it during the course\nWe should dig deeper and deeper\n\nTo succeed in DL (Deep Learning) you don’t need academic background, but you need to apply what you learn from the course to your personal project and you should always be persistent.\nBy the end of the course you’ll understand all the code that’s inside fast.ai, which means you’ve learnt the most important best practicies used in modern DL.\nThis is my motivation, which I wrote down on my flipchart. Btw, try to write your ideas on the flipchart, maybe you’ll like it as much as I do)\nAlthough Jeremy says that I should create my project right now, I’m not really interested in computer vision, which we’ve learned about during the first two lessons. I’m more interested in natural language processing, which we’ll learn in lesson 3, and video processing.\nHere is the link to his course.\nI also have a telegram chanel on russian."
   },
   {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
     "title": "Post With Code",
     "section": "",
-    "text": "This is a post with executable code.\npython3 -m venv myenv source myenv/bin/activate"
+    "text": "This is a post with executable code.\npython3 -m venv myenv source ~/myenv/bin/activate"
   },
   {
     "objectID": "posts/welcome/index — копия.html",
@@ -32,7 +32,7 @@
     "href": "index.html",
     "title": "Sergey Miroshnichenko",
     "section": "",
-    "text": "Date\n\n\nTitle\n\n\nReading Time\n\n\n\n\n\n\n\n\n\n \n\n\n \n\n\n2 min\n\n\n\n\n\n\n\nJun 13, 2024\n\n\nWelcome to my blog!\n\n\n2 min\n\n\n\n\n\n\n\nJun 11, 2024\n\n\nPost With Code\n\n\n1 min\n\n\n\n\n\nNo matching items"
+    "text": "Date\n\n\nTitle\n\n\nReading Time\n\n\n\n\n\n\n\n\n\nJun 13, 2024\n\n\nWelcome to my blog!\n\n\n2 min\n\n\n\n\n\n\n\nJun 11, 2024\n\n\nPost With Code\n\n\n1 min\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/welcome/i.html",
