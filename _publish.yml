@@ -1,0 +1,7 @@
+- source: project
+  quarto-pub:
+    - id: 77235b0a-c5f1-4edf-b31b-c03bca4564be
+      url: 'https://delicious-river.quarto.pub/delicious-blog'
+  netlify:
+    - id: dfcbbc0e-f42b-41f9-a16a-fa479b689592
+      url: 'https://relaxed-gaufre-c91cfc.netlify.app'
