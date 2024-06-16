@@ -11,20 +11,20 @@
     "href": "posts/welcome/index.html",
     "title": "Welcome to my blog!",
     "section": "",
-    "text": "Hello, everyone!\nMy name is Sergey, I’m from Astrakhan, Russia.\nLast week, I started my journey into Deep Learning with the amazing teacher Jeremy Howard. His method fits me perfectly!\n\nHe is one of the best experts in the field\nHis course is modern\nHe teaches through practice\nHe simplifies as much as possible\nI’m supposed to create a model and improve it during the course\nWe should dig deeper and deeper\n\nTo succeed in DL (Deep Learning) you don’t need academic background, but you need to apply what you learn from the course to your personal project and you should always be persistent.\nBy the end of the course you’ll understand all the code that’s inside fast.ai, which means you’ve learnt the most important best practicies used in modern DL.\nThis is my motivation, which I wrote down on my flipchart. Btw, try to write your ideas on the flipchart, maybe you’ll like it as much as I do)\nHere is the link to his course.\nThe course is based on the book, which is written in Jupyter notebooks. The book in published in paper version, free on Github, Colab and Kaggle, but the most modern version is published on paperspace.com. It costs 51 cents/h, but it worth it. First of all, because outdated code from Github doesn’t run properly. And it’s really easy to setup a book on paperspace. You just create an account, verify your phone number, create a notebook and select Paperspace + fast.ai template. Top 2 is downloading a book on your computer and running Jupyter notebooks locally.\nI also have a telegram chanel on russian."
+    "text": "Hello, everyone!\nMy name is Sergey, I’m from Astrakhan, Russia.\nLast week, I started my journey into Deep Learning with the amazing teacher Jeremy Howard. His method fits me perfectly!\n\nHe is one of the best experts in the field\nHis course is modern\nHe teaches through practice\nHe simplifies as much as possible\nI’m supposed to create a model and improve it during the course\nWe should dig deeper and deeper\n\nTo succeed in DL (Deep Learning) you don’t need academic background, but you need to apply what you learn from the course to your personal project and you should always be persistent.\nBy the end of the course you’ll understand all the code that’s inside fast.ai, which means you’ve learnt the most important best practicies used in modern DL.\nThis is my motivation, which I wrote down on my flipchart. Btw, try to write your ideas on the flipchart, maybe you’ll like it as much as I do)\nHere is the link to his course.\nThe course is based on the book, which is written in Jupyter notebooks. The book in published in paper version, free on Github, Colab and Kaggle, but the most modern version is published on paperspace.com. It costs 51 cents/h, but it worth it. First of all, because outdated code from Github doesn’t run properly. And it’s really easy to setup a book on paperspace. You just create an account, verify your phone number, create a notebook and select Paperspace + fast.ai template. Top 2 is downloading a book on your computer and running Jupyter notebooks locally."
   },
   {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "title": "Second week",
     "section": "",
-    "text": "This is a post with executable code.\npython3 -m venv myenv source ~/myenv/bin/activate"
+    "text": "Recently I had known that the main reason why students don’t finish online courses is weak motivation because they are not being expelled if they fail the deadlines. I decided to push myself learning more intesively, but I’m affraid of burning out. I told about this problem to my GTP Psychologist, and he gave me advices on enhacing my motivation. One of which was to tell somebody about my progress, and that’s why I’m here, telling you about my progress :D I didn’t complete the weekly plan, but it’s only morning, so maybe I will :) I’ve spent much time building this blog, and it’s still undone, but the cosmetics is not a big problem, while there are no readers yet. Maybe cosmetic issues will be fixed automatically with updates of quarto and bootstrap. I didn’t find a study group this week and didn’t get a response on my blog issue on fast.ai forum. Btw I have a telegram chanel on russian. See you next week ;)"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Sergey Miroshnichenko",
     "section": "",
-    "text": "Date\n\n\nTitle\n\n\nReading Time\n\n\n\n\n\n\n\n\n\nJun 13, 2024\n\n\nWelcome to my blog!\n\n\n2 min\n\n\n\n\n\n\n\nJun 11, 2024\n\n\nPost With Code\n\n\n1 min\n\n\n\n\n\nNo matching items"
+    "text": "Date\n\n\nTitle\n\n\nReading Time\n\n\n\n\n\n\n\n\n\nJun 16, 2024\n\n\nSecond week\n\n\n1 min\n\n\n\n\n\n\n\nJun 13, 2024\n\n\nWelcome to my blog!\n\n\n2 min\n\n\n\n\n\nNo matching items"
   }
 ]
