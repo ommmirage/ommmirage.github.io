@@ -7,24 +7,24 @@
     "text": "About this blog"
   },
   {
+    "objectID": "posts/w2/index.html",
+    "href": "posts/w2/index.html",
+    "title": "Week 2",
+    "section": "",
+    "text": "Recently, I learned that the main reason why students don’t finish online courses is weak motivation, as they are not expelled if they miss deadlines. I decided to push myself to learn more intensively, but I’m afraid of burning out. I talked about this problem with my GTP Psychologist, and he gave me advice on enhancing my motivation. One suggestion was to tell somebody about my progress, which is why I’m here, sharing my progress with you. :D\nI didn’t complete the weekly plan, but it’s only morning, so maybe I will. :)\nI’ve spent a lot of time building this blog, and it’s still not finished. However, the cosmetics are not a big problem since there are no readers yet. Maybe the cosmetic issues will be fixed automatically with updates to Quarto and Bootstrap.\nI didn’t find a study group this week and didn’t get a response to my blog issue on the fast.ai forum.\nBy the way, I have a Telegram channel in Russian.\nSee you next week! ;)"
+  },
+  {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
     "title": "Welcome to my blog!",
     "section": "",
-    "text": "Hello, everyone!\nMy name is Sergey, I’m from Astrakhan, Russia.\nLast week, I started my journey into Deep Learning with the amazing teacher Jeremy Howard. His method fits me perfectly!\n\nHe is one of the best experts in the field\nHis course is modern\nHe teaches through practice\nHe simplifies as much as possible\nI’m supposed to create a model and improve it during the course\nWe should dig deeper and deeper\n\nTo succeed in DL (Deep Learning) you don’t need academic background, but you need to apply what you learn from the course to your personal project and you should always be persistent.\nBy the end of the course you’ll understand all the code that’s inside fast.ai, which means you’ve learnt the most important best practicies used in modern DL.\nThis is my motivation, which I wrote down on my flipchart. Btw, try to write your ideas on the flipchart, maybe you’ll like it as much as I do)\nHere is the link to his course.\nThe course is based on the book, which is written in Jupyter notebooks. The book in published in paper version, free on Github, Colab and Kaggle, but the most modern version is published on paperspace.com. It costs 51 cents/h, but it worth it. First of all, because outdated code from Github doesn’t run properly. And it’s really easy to setup a book on paperspace. You just create an account, verify your phone number, create a notebook and select Paperspace + fast.ai template. Top 2 is downloading a book on your computer and running Jupyter notebooks locally.\nI also have a telegram chanel on russian."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code.\npython3 -m venv myenv source ~/myenv/bin/activate"
+    "text": "Hello, everyone!\nMy name is Sergey, I’m from Astrakhan, Russia.\nLast week, I started my journey into Deep Learning with the amazing teacher Jeremy Howard. His method fits me perfectly!\n\nHe is one of the best experts in the field\nHis course is modern\nHe teaches through practice\nHe simplifies as much as possible\nI’m supposed to create a model and improve it during the course\nWe should dig deeper and deeper\n\nTo succeed in DL (Deep Learning) you don’t need academic background, but you need to apply what you learn from the course to your personal project and you should always be persistent.\nBy the end of the course you’ll understand all the code that’s inside fast.ai, which means you’ve learnt the most important best practicies used in modern DL.\nThis is my motivation, which I wrote down on my flipchart. Btw, try to write your ideas on the flipchart, maybe you’ll like it as much as I do)\nHere is the link to his course.\nThe course is based on the book, which is written in Jupyter notebooks. The book in published in paper version, free on Github, Colab and Kaggle, but the most modern version is published on paperspace.com. It costs 51 cents/h, but it worth it. First of all, because outdated code from Github doesn’t run properly. And it’s really easy to setup a book on paperspace. You just create an account, verify your phone number, create a notebook and select Paperspace + fast.ai template. Top 2 is downloading a book on your computer and running Jupyter notebooks locally."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Sergey Miroshnichenko",
     "section": "",
-    "text": "Date\n\n\nTitle\n\n\nReading Time\n\n\n\n\n\n\n\n\n\nJun 13, 2024\n\n\nWelcome to my blog!\n\n\n2 min\n\n\n\n\n\n\n\nJun 11, 2024\n\n\nPost With Code\n\n\n1 min\n\n\n\n\n\nNo matching items"
+    "text": "Date\n\n\nTitle\n\n\nReading Time\n\n\n\n\n\n\n\n\n\nJun 16, 2024\n\n\nWeek 2\n\n\n1 min\n\n\n\n\n\n\n\nJun 13, 2024\n\n\nWelcome to my blog!\n\n\n2 min\n\n\n\n\n\nNo matching items"
   }
 ]
